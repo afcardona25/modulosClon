@@ -1,0 +1,20 @@
+id encabezado 
+    imagen: rallitas menú fuente: 
+    imagen: logo fuente: 
+    imagen: carrito fuent: 
+
+id zona1blanca
+    imagen: escritorio fiuente:   
+
+id zona2verde
+    imagen: logo descuento fuente: 
+
+class 50
+    imagen:  escritorio fuente:
+
+class 25 id: izq
+    <img src="" alt="modulos">
+
+   
+<div class="25" id="der">
+    <img src="" alt="plano">  
